@@ -8,24 +8,23 @@
 ## Checklist:
 
 1. **Set Up Your Development Environment:**
-   - [ ] Install Node.js and npm.
-   - [ ] Choose and set up a code editor (e.g., Visual Studio Code).
-   - [ ] Configure Cursor for JavaScript development.
+   - [x] Install Node.js and npm.
+   - [x] Choose and set up a code editor (e.g., Visual Studio Code).
+   - [x] Configure Cursor for JavaScript development.
 
 2. **Learn JavaScript Basics:**
-   - [ ] Variables and Data Types.
-   - [ ] Operators.
-   - [ ] Functions.
-   - [ ] Control Structures.
-   - [ ] Arrays and Objects.
+   - [x] Variables and Data Types.
+   - [x] Operators.
+   - [x] Functions.
+   - [x] Control Structures.
+   - [x] Arrays and Objects.
 
 3. **Practice Exercises:**
-   - [ ] Create variables of different data types.
-   - [ ] Write basic functions.
-   - [ ] Implement loops and conditionals.
-   - [ ] Manipulate arrays and objects.
+   - [x] Create variables of different data types.
+   - [x] Write basic functions.
+   - [x] Implement loops and conditionals.
+   - [x] Manipulate arrays and objects.
 
 4. **Resources:**
-   - [ ] [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
-   - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c).
-
+   - [x] [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
+   - [x] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c).

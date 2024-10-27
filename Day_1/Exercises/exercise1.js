@@ -6,3 +6,12 @@
 // - Create an array named "fruits" containing at least three different fruit names.
 // - Create an object named "person" with properties: name (string), age (number), and isStudent (boolean).
 
+const greeting = "Hello, World!";
+const age = 44;
+const isStudent = false;
+let fruits = ['apples', 'oranges', 'pears'];
+const person = {
+    name: 'Stephan',
+    age: 44,
+    isStudent: false
+}
