@@ -8,7 +8,7 @@
 ## Checklist:
 
 1. **Set Up a React App:**
-   - [ ] Install Create React App.
+   - [ ] Install Vite.
    - [ ] Explore the project structure.
 
 2. **Learn React Fundamentals:**
@@ -26,5 +26,5 @@
 
 4. **Resources:**
    - [ ] [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html).
-   - [ ] [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A).
+   - [ ] [React JS Crash Course](https://www.youtube.com/watch?v=LDB4uaJ87e0).
 

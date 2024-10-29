@@ -8,24 +8,40 @@
 ## Checklist:
 
 1. **Study ES6 Features:**
-   - [ ] Arrow Functions.
-   - [ ] Template Literals.
-   - [ ] Destructuring.
-   - [ ] Spread and Rest Operators.
-   - [ ] Classes.
-   - [ ] Modules.
+   - [x] Arrow Functions.
+   - [x] Template Literals.
+   - [x] Destructuring.
+   - [x] Spread and Rest Operators.
+   - [x] Classes.
+   - [x] Modules.
 
 2. **Learn Asynchronous JavaScript:**
-   - [ ] Callbacks.
-   - [ ] Promises.
-   - [ ] async/await.
+   - [x] Callbacks.
+   - [x] Promises.
+   - [x] async/await.
 
 3. **Practice Exercises:**
-   - [ ] Convert regular functions to arrow functions.
-   - [ ] Use destructuring to extract values from objects and arrays.
-   - [ ] Utilize the spread and rest operators in functions and arrays.
+   - [x] Convert regular functions to arrow functions.
+   - [x] Use destructuring to extract values from objects and arrays.
+   - [x] Utilize the spread and rest operators in functions and arrays.
 
 4. **Resources:**
-   - [ ] [ES6 Features on W3Schools](https://www.w3schools.com/js/js_es6.asp).
-   - [ ] [Async/Await on JavaScript.info](https://javascript.info/async-await).
+   - [ ] [JavaScript.info - Modern JavaScript Tutorial](https://javascript.info/)
+        * Comprehensive, free, and regularly updated
+        * Excellent sections on promises and async/await
+        * Interactive examples and tasks
 
+   - [ ] [Traversy Media - ES6 Tutorial](https://www.youtube.com/watch?v=WZQc7RUAg18)
+        * Practical 1-hour video tutorial
+        * Covers all major ES6 features
+        * Includes coding examples
+
+   - [ ] [FreeCodeCamp - ES6 Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+        * Interactive exercises
+        * Practice problems with immediate feedback
+        * Free certification
+
+   - [ ] [Asynchronous JavaScript Tutorial](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+        * Clear explanations of callbacks, promises, and async/await
+        * Real-world examples
+        * Project-based learning
